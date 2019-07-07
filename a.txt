@@ -3,3 +3,4 @@ down
 raght
 left
 end
+home
